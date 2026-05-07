@@ -203,7 +203,23 @@ docker compose up --build
 - Advanced monitoring dashboards  
 
 ---
+## 📸 Screenshots
 
+### dashboard
+![dashboard](screenshots/dashboard.png)
+![health](screenshots/health.png)
+![health2](screenshots/health2.png)
+![root](screenshots/root.png)
+![root2](screenshots/root2.png)
+![hello](screenshots/hello.png)
+![hello2](screenshots/hello2.png)
+
+### Incident Detail
+![incident](screenshots/incident.png)
+![incident2](screenshots/incident2.png)
+
+
+---
 ## 📎 Repository
 
 👉 https://github.com/your-username/ims-project
