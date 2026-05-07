@@ -222,7 +222,7 @@ docker compose up --build
 ---
 ## 📎 Repository
 
-👉 https://github.com/your-username/ims-project
+👉 [**CLICK HERE TO VIEW THE GITHUB REPOSITORY**](https://github.com/JAAFIRST559/ims-final-project)
 
 ---
 
