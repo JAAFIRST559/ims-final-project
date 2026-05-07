@@ -172,6 +172,19 @@ Kafka for distributed ingestion
 Auto-scaling worker pool
 Alert integrations (Slack / Email)
 Advanced monitoring dashboards
+## 📸 Screenshots
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### Incident Detail
+![Incident](screenshots/incident.png)
+
+### health Submission
+![RCA](screenshots/health.png)
+
+### health2 Running
+![health2](screenshots/health2.png)
 📎 Repository
 
 👉 https://github.com/your-username/ims-project
